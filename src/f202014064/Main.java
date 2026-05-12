@@ -6,6 +6,7 @@ public class Main {
 	    System.out.println("은정민");
 		World.run();
 		World.run2();
+		Hello.run();
 	  }
 
 	}
